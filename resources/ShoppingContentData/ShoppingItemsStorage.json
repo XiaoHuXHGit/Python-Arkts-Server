@@ -1,0 +1,98 @@
+[
+  {
+    "name": "底特律：化身为人",
+    "price": 128.00,
+    "current": 38.40,
+    "cover": "Detroit-Become-Human.jpg",
+    "isLive": false,
+    "code": "Detroit-Become-Human"
+  },
+  {
+    "name": "黑神话：悟空",
+    "price": 256,
+    "current": 256,
+    "cover": "Black-Myth-Wukong.jpg",
+    "isLive": false,
+    "code": "Black-Myth-Wukong"
+  },
+  {
+    "name": "艾尔登法环",
+    "price": 300,
+    "current": 60,
+    "cover": "Elden-Ring.jpg",
+    "isLive": true,
+    "code": "Elden-Ring"
+  },
+  {
+    "name": "最终幻想 XVI",
+    "price": 450,
+    "current": 450,
+    "cover": "FFXVI.jpg",
+    "isLive": false,
+    "code": "FFXVI"
+  },
+  {
+    "name": "生化危机 8",
+    "price": 320,
+    "current": 64,
+    "cover": "Resident-Evil-8.jpg",
+    "isLive": true,
+    "code": "RE8"
+  },
+  {
+    "name": "塞尔达传说：荒野之息",
+    "price": 400,
+    "current": 120,
+    "cover": "Zelda-Breath-of-the-Wild.jpg",
+    "isLive": false,
+    "code": "Zelda-BOTW"
+  },
+  {
+    "name": "只狼：影逝二度",
+    "price": 250,
+    "current": 125,
+    "cover": "Sekiro.jpg",
+    "isLive": true,
+    "code": "Sekiro"
+  },
+  {
+    "name": "巫师 3：狂猎",
+    "price": 199,
+    "current": 199,
+    "cover": "Witcher-3.jpg",
+    "isLive": false,
+    "code": "Witcher-3"
+  },
+  {
+    "name": "极限竞速：地平线 5",
+    "price": 300,
+    "current": 60,
+    "cover": "Forza-Horizon-5.jpg",
+    "isLive": true,
+    "code": "Forza-Horizon-5"
+  },
+  {
+    "name": "泰坦陨落 2",
+    "price": 150,
+    "current": 15,
+    "cover": "Titanfall-2.jpg",
+    "isLive": false,
+    "code": "Titanfall-2"
+  },
+  {
+    "name": "生化危机 2 重制版",
+    "price": 300,
+    "current": 30,
+    "cover": "RE2-Remake.jpg",
+    "isLive": true,
+    "code": "RE2-Remake"
+  },
+  {
+    "name": "我的世界",
+    "price": 240,
+    "current": 48,
+    "cover": "Minecraft.jpg",
+    "isLive": true,
+    "code": "Minecraft"
+  }
+]

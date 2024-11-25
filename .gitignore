@@ -1,0 +1,12 @@
+# 忽略 python 虚拟环境目录
+pythonenv/
+
+# 忽略 JetBrains IDE 生成的项目配置目录
+.idea/
+
+# 忽略 Python 的字节码缓存文件夹
+__pycache__/
+
+# 忽略资源文件
+resources/ShoppingContentData/ShoppingContentResource
+resources/ShoppingContentData/ShoppingGameDataResource

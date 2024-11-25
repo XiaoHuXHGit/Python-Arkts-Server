@@ -1,0 +1,125 @@
+{
+  "default": {
+    "name": "游戏名称",
+    "developers": "开发者",
+    "publishers": "发行者",
+    "release_date": "发行日期",
+    "introduction": "游戏简介",
+    "tags": [
+      "标签1",
+      "标签2"
+    ],
+    "types": [
+      "类型1",
+      "类型2"
+    ],
+    "positive_appraise": 0,
+    "negative_appraise": 0,
+    "recent_positive_appraise": 0,
+    "recent_negative_appraise": 0,
+    "demo": false,
+    "bundles": [
+      {
+        "bundle_name": "捆绑包名称",
+        "images": [],
+        "price": 0.00,
+        "current": 0.00
+      }
+    ],
+    "function": [
+      "功能1",
+      "功能2"
+    ],
+    "controller": [
+      "控制器类型"
+    ],
+    "need_license_agreement": false,
+    "hyperlink_and_message": [
+      {
+        "exist": false,
+        "url": "",
+        "name": "网站"
+      },
+      {
+        "exist": false,
+        "url": "",
+        "name": "Twitch"
+      },
+      {
+        "exist": false,
+        "url": "",
+        "name": "X"
+      },
+      {
+        "exist": false,
+        "url": "",
+        "name": "YouTube"
+      }
+    ]
+  },
+  "Detroit-Become-Human": {
+    "name": "Detroit: Become Human",
+    "developers": "Quantic Dream",
+    "publishers": "Quantic Dream",
+    "release_date": "2020 年 6 月 18 日",
+    "introduction": "在《底特律:化身为人》中，人类和机器人的命运都将学握在您的手中，您将走进一个不远的未来，一个机器人具有比人类更高智慧的时代。您将体验到史上最为复杂的分支故事-一您所作出的每个选择都将影游戏的结局。",
+    "tags": [
+      "选择取向",
+      "剧情丰富",
+      "多结局",
+      "单人"
+    ],
+    "types": [
+      "动作",
+      "冒险"
+    ],
+    "positive_appraise": 110600,
+    "negative_appraise": 5821,
+    "recent_positive_appraise": 3729,
+    "recent_negative_appraise": 115,
+    "demo": true,
+    "bundles": [
+      {
+        "bundle_name": "Quantic Dream Collection",
+        "images": [
+        ],
+        "price": 306.00,
+        "current": 72.72
+      }
+    ],
+    "function": [
+      "单人",
+      "Steam 成就",
+      "Steam 云",
+      "在电视上远程畅玩",
+      "家庭共享"
+    ],
+    "controller": [
+      "Xbox 控制器",
+      "尚不清楚是否支持其他控制器"
+    ],
+    "need_license_agreement": true
+  },
+  "hyperlink_and_message": [
+    {
+      "exist": true,
+      "url": "",
+      "name": "website"
+    },
+    {
+      "exist": true,
+      "url": "",
+      "name": "twitch"
+    },
+    {
+      "exist": true,
+      "url": "",
+      "name": "x"
+    },
+    {
+      "exist": true,
+      "url": "",
+      "name": "youtube"
+    }
+  ]
+}
